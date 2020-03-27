@@ -1,6 +1,8 @@
 # Btechguru_web_automation-Python
 A python3 script which automatically takes your btechguru assessment for you.
 
+[![Video](https://img.youtube.com/vi/Uy_viddrNrc/0.jpg)](https://www.youtube.com/watch?v=Uy_viddrNrc)
+
 ### Requirements -
 
 1. [Python 3](https://www.python.org/downloads/)
