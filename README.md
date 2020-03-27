@@ -26,3 +26,10 @@ py works for me you can even try
 3. email/username - Your btechguru.com email/username
 4. password - Your btech guru password can be passed as a command line argument also
 5. delay -  How many minutes after you want your test to end
+
+### Follow up -
+If you liked the project or would like to build upon this or this types of projects here are some ideas
+1. Each question or html element of that question usually has a unique ID which can be stored in a database in the database after we got to know the result for that question and whenever another user encounters the same question that id can be looked up in the database and correct answer(if any) would be fetched.
+2. ML and AI are the talk of the town right now, feel free to integrate those with these types of projects use them for identifying and solving famous questions or formulae or solving equations or even identifying the language for guess the output type of questions and predicting the answer your last card to play, would be searching the question on a search engine and choosing the most appropriate answer which matched the options.
+
+Thanks for reading
