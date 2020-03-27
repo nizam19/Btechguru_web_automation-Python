@@ -12,7 +12,8 @@ Click :point_up: for video of how this works
 
 ### How to use -
 
-```git
+If you already have [git](https://git-scm.com/downloads) installed head to any command line and
+```bash
 git clone https://github.com/nizam19/Btechguru_web_automation-Python.git
 
 cd Btechguru_web_automation-Python/
