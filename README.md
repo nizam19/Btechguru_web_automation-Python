@@ -7,8 +7,8 @@ Click :point_up: for video of how this works
 
 ### Requirements -
 
-1. [Python 3](https://www.python.org/downloads/)
-2. [Google Chrome](https://www.google.com/chrome/)
+1. [Python 3](https://www.python.org/downloads/) (I used Python 3.8.1)
+2. [Google Chrome](https://www.google.com/chrome/) (I used Version 80.0.3987.149 (Official Build) (64-bit))
 
 ### How to use -
 
