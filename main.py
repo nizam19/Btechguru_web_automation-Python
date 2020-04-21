@@ -74,10 +74,12 @@ if __name__=='__main__':
             i.click()
             break
     try:
+        found=False
         for i in driver.find_elements_by_tag_name("input"):
             if i.get_attribute("name")=="activationCode":
                 i.send_keys(code)
-            if i.get_attribute("value")=="Get Started":
+                found=True
+            if found and i.get_attribute("value")=="Get Started":
                 i.click()
                 break
     except:
@@ -124,9 +126,9 @@ if __name__=='__main__':
             i.click()
             break
 
-    time.sleep(5)
+    time.sleep(7)
 
     alert_obj2 = driver.switch_to.alert
-    time.sleep(5)
+    time.sleep(7)
     alert_obj2.accept() 
     
